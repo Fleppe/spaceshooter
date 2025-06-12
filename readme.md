@@ -6,7 +6,7 @@ A classic 2D space shooter game built with Python and Pygame as a learning proje
 
 ### Controls
 - **Arrow Keys** - Move your spaceship in all directions
-- **Spacebar** - Fire twin lasers (with cooldown)
+- **Spacebar** - Fire 
 - **Window Close** - Exit game
 
 ## 🚀 Installation & Setup
