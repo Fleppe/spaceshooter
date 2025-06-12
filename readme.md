@@ -9,7 +9,7 @@ A classic 2D space shooter game built with Python and Pygame as a learning proje
 - **Spacebar** - Fire 
 - **Window Close** - Exit game
 
-## 🚀 Installation & Setup
+## 📋 Installation & Setup
 
 ### 1. Clone the Repository
 ```bash
