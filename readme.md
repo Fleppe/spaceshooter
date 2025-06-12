@@ -1,10 +1,10 @@
-### 🚀 Spaceshooter
+# 🚀 Spaceshooter
 
 A classic 2D space shooter game built with Python and Pygame as a learning project. This game was created to better understand OOP.
 
-### 🎮 Game features
+## 🎮 Game features
 
-## Controls
+### Controls
 - **Arrow Keys** - Move your spaceship in all directions
 - **Spacebar** - Fire twin lasers (with cooldown)
 - **Window Close** - Exit game
